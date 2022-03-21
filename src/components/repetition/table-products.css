@@ -1,0 +1,19 @@
+.tableProducts table {
+  width: 100%;
+}
+.tableProducts th {
+  background-color: #0d5555;
+  color: white;
+}
+.tableProducts tr:hover {
+  cursor: pointer;
+  background-color: red;
+}
+.tableProducts .par {
+  background-color: #ddd;
+  color: #000;
+}
+.tableProducts .impar {
+  background-color: #ccc;
+  color: #000;
+}
